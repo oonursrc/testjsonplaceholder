@@ -58,9 +58,9 @@ To run tests, run the following command
 
 To run tests on CircleCI, run the following link
 
-[CircleCI Page](https://app.circleci.com/pipelines/github/oonursrc/testjsonplaceholder?branch=main/).
+[CircleCI Page](https://app.circleci.com/pipelines/github/oonursrc/testjsonplaceholder?branch=main)
 ## FAQ
 
 If you have Python SSL issue, please follow the link below
 
-[Link](https://github.com/actions/setup-python/issues/93/).
+[Link](https://github.com/actions/setup-python/issues/93/)
